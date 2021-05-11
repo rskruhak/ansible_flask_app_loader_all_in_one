@@ -1,0 +1,7 @@
+---
+load_balancer_packages:
+  - haproxy
+
+tags:
+  - load_balancers
+
